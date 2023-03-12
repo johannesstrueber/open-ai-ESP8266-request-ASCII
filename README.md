@@ -1,4 +1,4 @@
-# open-ai-esp3288-request-ASCII
+# open-ai-ESP8266-request-ASCII
 
 This code is an Arduino sketch that connects an ESP8266 WiFi module to the internet and makes a request to the OpenAI API to generate an ASCII image of EU news. The resulting ASCII image is displayed on an SSD1306 OLED display.
 
